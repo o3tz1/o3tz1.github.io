@@ -1,0 +1,75 @@
+#particles-js{
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+.btext_h1{
+    color: #A8A8A8;
+    font-family: 'Anonymous Pro', monospace;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    width: 100%;
+    line-height: 0.4em;
+}
+
+.btext_icons{
+	pointer-events: all;
+	color: #990000;
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	line-height: 5em
+}
+
+.email_footer{
+	pointer-events: all;
+	color: #990000;
+	position: absolute;
+	text-align: center;
+	width: 100%;
+}
+
+h1{
+	font-family: 'Anonymous Pro', monospace;
+	font-size: 7vw;
+}
+
+h5{
+	font-family: 'Roboto', monospace;
+	font-size: 1vw;
+}
+
+
+i{
+	font-size: 2vmin;
+}
+
+a{
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.particles-div{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	max-width: 100% !important;
+	z-index: -999;
+}
+.panel {
+    position: absolute;
+    background: transparent;
+    width: 100%;
+    z-index : 99;
+    max-width: 100% !important;
+}
+
